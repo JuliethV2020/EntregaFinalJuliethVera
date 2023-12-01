@@ -1,0 +1,61 @@
+#root {
+ height: 100%;
+ width: 100%;
+ margin: 0;
+ 
+}
+
+.home,.formulario,.detalle,.fav{
+  height: 100vh;
+  width: 100vw;
+}
+
+.link{
+ height: 60px;
+ text-align: center;
+ width: 100vw;
+ margin-top:0px;
+}
+
+
+.nav{
+ height: 50px;
+ text-align: center;
+ width: 50vw;
+ margin-top:10px;
+ margin-left: 30%;
+}
+
+
+.footer{
+ background-color: rgb(52, 96, 218);
+ height: 50px;
+ bottom: 0;
+ position: fixed;
+ text-align: center;
+ color: rgb(255, 255, 255);
+ width: 100vw;
+}
+
+.contact{
+  margin-left: 30%;
+  width: 50vw;
+  position: fixed;
+  margin-top: 30px;
+}
+
+
+
+img {
+  margin-left: 30px;
+}
+.cards{
+  display: flex;
+}
+
+.card{
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 10px;
+}
+
